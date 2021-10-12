@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  - ✍️ &nbsp; Fork到自己的仓库，否则你可能会失去它。
  - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。
  - ⚡ &nbsp; [CSDN技术文章](https://wanglaibin.blog.csdn.net)。
- - 👯 &nbsp; [CicadaUI Design](https://laibin-wang.github.i)。
+ - 👯 &nbsp; [CicadaUI Design](https://laibin-wang.github.io)。
 
 <br><br>
 <p align = "center">
