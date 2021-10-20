@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align = "center">
-  <h2> <img src = "https://komarev.com/ghpvc/?username=laibin-wang" > Hey there!</h2>
+  <!-- <h2> <img src = "https://komarev.com/ghpvc/?username=laibin-wang" >--> Hey there!</h2>
 </p>
 
  - 🔭 &nbsp; Hi, Everybody。</p>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  - 👯 &nbsp; [CicadaUI Design](https://laibin-wang.github.io)。
 
 <br><br>
-<p align = "center">
+<!--<p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=laibin-wang&count_private=true&show_icons=true&line_height=27" width="100%">
 </p>
 <p align = "center">
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/laibin-wang/aurora-ui">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laibin-wang&repo=aurora-ui" />
   </a>
-</p> -->
+</p>
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=laibin-wang">
@@ -55,3 +55,4 @@ Here are some ideas to get you started:
 </p>
 
 <br><br><br><br>
+ -->
