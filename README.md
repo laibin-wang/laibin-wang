@@ -13,11 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align = "center">
-  <!-- <h2> <img src = "https://komarev.com/ghpvc/?username=laibin-wang" >--> Hey there!</h2>
-</p>
+<!-- <p align = "center">
+   <h2> <img src = "https://komarev.com/ghpvc/?username=laibin-wang" > Hey there!</h2>
+</p>-->
 
- - 🔭 &nbsp; Hi, Everybody。</p>
+### 👋 Hey! 
+
+I'm a team leader @idss-cn working on Client Infrastructure. 
+
+### 👨‍💻 Cool stuff my team working on
+
+- **[Big front-end](https://live.juejin.cn/4354/xdc2021-09?utm_source=gold_browser_extension)**: Big front-end technology exploration.
+- **Low Code or No Code**: Low-code market research.
+- **Cross Platform Framework**: A framework for building cross-platform native apps using microapp DSL but provide better performance and code size.
+
+### 📫 How to reach me
+
+- CSDN: [@CSDN](https://wanglaibin.blog.csdn.net)
+- Email: [wanglb@idss-cn.com](mailto:wanglb@idss-cn.com)
+
+
+<!-- - 🔭 &nbsp; Hi, Everybody。</p>
  - 🤔 &nbsp; 非常欢迎你来访问我的Github。
  - 🎓 &nbsp; 尽管这里可能并没有你需要的项目。
  - 💼 &nbsp; 但是你的到来会使这里变得蓬荜生辉。
@@ -26,6 +42,7 @@ Here are some ideas to get you started:
  - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。
  - ⚡ &nbsp; [CSDN技术文章](https://wanglaibin.blog.csdn.net)。
  - 👯 &nbsp; [CicadaUI Design](https://laibin-wang.github.io)。
+-->
 
 <br><br>
 <!--<p align = "center">
