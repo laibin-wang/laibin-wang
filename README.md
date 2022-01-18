@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hey! <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
-🔭 I'm a front-end team leader @idss-cn working on Big Data + Pan-Security products and services work.  
+🔭 ***I'm a front-end team leader @idss-cn working on Big Data + Pan-Security products and services work.***
 
  - 🤔 &nbsp; 非常欢迎你来访问我的Github。
  - 🎓 &nbsp; 尽管这里可能并没有你需要的项目。
@@ -27,15 +27,13 @@ Here are some ideas to get you started:
  - 🌱 &nbsp; 既然已经来了，请不要吝啬你手里的Star。
  - ✍️ &nbsp; Fork到自己的仓库，否则你可能会失去它。
  - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。
- - ⚡ &nbsp; [CSDN技术文章](https://wanglaibin.blog.csdn.net)。
- - 👯 &nbsp; [CicadaUI Design](https://laibin-wang.github.io)。
 
 
 ### 👨‍💻 Cool stuff my team working on
 
-- **[Big front-end](https://live.juejin.cn/4354/xdc2021-09?utm_source=gold_browser_extension)**: Big front-end technology exploration.
-- **Low Code or No Code**: Low-code market research.
-- **Cross Platform Framework**: A framework for building cross-platform native apps using microapp DSL but provide better performance and code size.
+- 👯 **[Big front-end](https://live.juejin.cn/4354/xdc2021-09?utm_source=gold_browser_extension)**: Big front-end technology exploration.
+- ✍️ **Low Code or No Code**: Low-code market research.
+- ⚡ **Cross Platform Framework**: A framework for building cross-platform native apps using microapp DSL but provide better performance and code size.
 
 ### 📫 How to reach me
 
