@@ -71,8 +71,9 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me
 
-[![CSDN](https://img.shields.io/badge/CSDN-@wanglaibin-brightgreen)](https://wanglaibin.blog.csdn.net/)
-[![禅思院](https://img.shields.io/badge/%E7%A6%85%E6%80%9D%E9%99%A2-Cicada-blue?logo=GitHub)](https://laibin-wang.github.io/)
+[![CSDN](https://img.shields.io/badge/CSDN-博客-brightgreen)](https://wanglaibin.blog.csdn.net/)
+[![禅思院](https://img.shields.io/badge/%E7%A6%85%E6%80%9D%E9%99%A2-gitee空间-blue?logo=GitHub)](https://wanglaibin.gitee.io/)
+[![禅思院](https://img.shields.io/badge/%E7%A6%85%E6%80%9D%E9%99%A2-github空间-blue?logo=GitHub)](https://laibin-wang.github.io/)
 [![语雀](https://img.shields.io/badge/%E8%AF%AD%E9%9B%80-%40%E7%A6%85%E6%80%9D%E9%99%A2-blueviolet)](https://www.yuque.com/laibin.wang)
 [![邮箱](https://img.shields.io/badge/Email-@wanglaibin-brightgreen)](mailto:wanglb@idss-cn.com)
 
