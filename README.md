@@ -121,9 +121,9 @@ Here are some ideas to get you started:
 [![邮箱](https://img.shields.io/badge/Email-@wanglaibin-brightgreen)](mailto:wanglb@idss-cn.com)
 
 
-   <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=laibin-wang&layout=compact" height="137px" /></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laibin-wang&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=laibin-wang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
+   <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laibin-wang&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=laibin-wang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
 
-
+<div align="center" > <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=laibin-wang" /> </div>
 
 <!-- - 🔭 &nbsp; Hi, Everybody。</p>
  - 🤔 &nbsp; 非常欢迎你来访问我的Github。
