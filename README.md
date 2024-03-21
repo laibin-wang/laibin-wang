@@ -52,7 +52,9 @@ Here are some ideas to get you started:
 
 <br><br><br><br>
  -->
-### 👋 Hey!  Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://linweiqian.github.io/linweiqianBlog/) visitor, Thank You!🎉🎉
+### 👋 Hey!  Welcome, You are my [![Visitor Count](https://img-home.csdnimg.cn/images/20201124032511.png)](https://wanglaibin.blog.csdn.net/) visitor, Thank You!🎉🎉
+
+
 
 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> &nbsp;  ***I'm a front-end team leader @idss-cn working on Big Data + Pan-Security products and services work.*** 
 
